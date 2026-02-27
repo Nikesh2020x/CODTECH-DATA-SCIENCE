@@ -1,10 +1,1 @@
-CODTECH-DATA-SCIENCE
 
-COMPANY : CODTECH IT SOLUTIONS
-NAME : A.NIKESH
-INTERN ID : CTIS4773
-DOMAIN : DATA SCIENCE
-DURATION : 4 WEEKS
-MENTOR : NEELA SANTHOSH
-
-"A collection of task completed during my data science internship at codtech IT 
