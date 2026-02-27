@@ -7,4 +7,4 @@ DOMAIN : DATA SCIENCE
 DURATION : 4 WEEKS
 MENTOR : NEELA SANTHOSH
 
-"A collection of task completed during my data science internship at codtech IT solutio
+"A collection of task completed during my data science internship at codtech IT 
